@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Axe
   m_EditorClassIdentifier: Assembly-CSharp::Weapon
   weaponName: Battle Axe
-  weaponIcon: {fileID: 0}
+  weaponIcon: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
   attackSpeed: 1
   attackDamage: 7.5
   type: 3
+  weaponModel: {fileID: 4043713304123831868, guid: d2db0034c08ec424a95a107f3e015a09, type: 3}

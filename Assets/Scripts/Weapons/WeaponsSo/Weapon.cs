@@ -11,6 +11,7 @@ public class Weapon: ScriptableObject
     public float attackDamage;
     public WeaponTypes type;
 
+    public GameObject weaponModel;
     public enum WeaponTypes
     {
         Spear,

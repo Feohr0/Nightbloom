@@ -1,0 +1,2535 @@
+fileFormatVersion: 2
+guid: b514252a5fe0e984696631b9939b9cc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1347282923667962126
+    second: yol_0
+  - first:
+      213: 4375970541519215510
+    second: yol_1
+  - first:
+      213: 2260398297215686071
+    second: yol_2
+  - first:
+      213: 1160047812069968834
+    second: yol_3
+  - first:
+      213: -3264674610017331147
+    second: yol_4
+  - first:
+      213: -26443562122038041
+    second: yol_5
+  - first:
+      213: -5909238891890225869
+    second: yol_6
+  - first:
+      213: -526646269933241260
+    second: yol_7
+  - first:
+      213: 8021145696789912739
+    second: yol_8
+  - first:
+      213: -3885428424974678180
+    second: yol_9
+  - first:
+      213: -7205969772810620019
+    second: yol_10
+  - first:
+      213: -4614897074499372041
+    second: yol_11
+  - first:
+      213: 6255246479186472339
+    second: yol_12
+  - first:
+      213: -6928661468485454497
+    second: yol_13
+  - first:
+      213: -6905816285336679826
+    second: yol_14
+  - first:
+      213: 8386237696722569017
+    second: yol_15
+  - first:
+      213: -2794865446135848118
+    second: yol_16
+  - first:
+      213: -5106685936538830952
+    second: yol_17
+  - first:
+      213: 5388501824851164816
+    second: yol_18
+  - first:
+      213: 1657215061333916475
+    second: yol_19
+  - first:
+      213: 7948822159048340594
+    second: yol_20
+  - first:
+      213: -8691109014860699147
+    second: yol_21
+  - first:
+      213: -1375772524436313418
+    second: yol_22
+  - first:
+      213: 6236349169782664217
+    second: yol_23
+  - first:
+      213: 1720262310416857845
+    second: yol_24
+  - first:
+      213: -4812563123494465505
+    second: yol_25
+  - first:
+      213: 3478353712020204270
+    second: yol_26
+  - first:
+      213: 8546183354992987828
+    second: yol_27
+  - first:
+      213: 1070079080841768917
+    second: yol_28
+  - first:
+      213: -494075000956175656
+    second: yol_29
+  - first:
+      213: -2706598870372575833
+    second: yol_30
+  - first:
+      213: -7351441542073234058
+    second: yol_31
+  - first:
+      213: 4414391608872545541
+    second: yol_32
+  - first:
+      213: 8190385519602147268
+    second: yol_33
+  - first:
+      213: -7779284702362067339
+    second: yol_34
+  - first:
+      213: 1183302454040688706
+    second: yol_35
+  - first:
+      213: 8263050515397980684
+    second: yol_36
+  - first:
+      213: 1119187160461016056
+    second: yol_37
+  - first:
+      213: 5043773000674646522
+    second: yol_38
+  - first:
+      213: -1749853679862737911
+    second: yol_39
+  - first:
+      213: 6213614698203386776
+    second: yol_40
+  - first:
+      213: -1869754515423660348
+    second: yol_41
+  - first:
+      213: -2572832728882906204
+    second: yol_42
+  - first:
+      213: -5567798247413858324
+    second: yol_43
+  - first:
+      213: -1378755426042136897
+    second: yol_44
+  - first:
+      213: -6858523967170052290
+    second: yol_45
+  - first:
+      213: -9151848320541661366
+    second: yol_46
+  - first:
+      213: 4204733724058790988
+    second: yol_47
+  - first:
+      213: 8009788731706215182
+    second: yol_48
+  - first:
+      213: -7181623473552343847
+    second: yol_49
+  - first:
+      213: -256715462404608555
+    second: yol_50
+  - first:
+      213: -7127281550039460459
+    second: yol_51
+  - first:
+      213: 1957887326578894861
+    second: yol_52
+  - first:
+      213: -6210539690965310028
+    second: yol_53
+  - first:
+      213: 2047051215153125757
+    second: yol_54
+  - first:
+      213: -3828178905668697107
+    second: yol_55
+  - first:
+      213: 5772318052091567049
+    second: yol_56
+  - first:
+      213: -5391793021469758159
+    second: yol_57
+  - first:
+      213: -5347586732637537852
+    second: yol_58
+  - first:
+      213: -4251316327336741052
+    second: yol_59
+  - first:
+      213: -4418108636607472400
+    second: yol_60
+  - first:
+      213: -4608066825620505337
+    second: yol_61
+  - first:
+      213: 4706923023794001849
+    second: yol_62
+  - first:
+      213: 9086295365626849812
+    second: yol_63
+  - first:
+      213: 3580508701662287963
+    second: yol_64
+  - first:
+      213: 113631970637148723
+    second: yol_65
+  - first:
+      213: 2865319362427458980
+    second: yol_66
+  - first:
+      213: 5127606626221486682
+    second: yol_67
+  - first:
+      213: 5343175993964144187
+    second: yol_68
+  - first:
+      213: -6058310550357543896
+    second: yol_69
+  - first:
+      213: -2402327982554938948
+    second: yol_70
+  - first:
+      213: 1775980512877277914
+    second: yol_71
+  - first:
+      213: -3782897416725852485
+    second: yol_72
+  - first:
+      213: 4910850227897997420
+    second: yol_73
+  - first:
+      213: 4964651309806139091
+    second: yol_74
+  - first:
+      213: -4242759059297819371
+    second: yol_75
+  - first:
+      213: 5595204408937556011
+    second: yol_76
+  - first:
+      213: -4143147315607028804
+    second: yol_77
+  - first:
+      213: 2357949276171119354
+    second: yol_78
+  - first:
+      213: -8532436483201470366
+    second: yol_79
+  - first:
+      213: -2679472828218595146
+    second: yol_80
+  - first:
+      213: -4491452624322640322
+    second: yol_81
+  - first:
+      213: 847612165072391862
+    second: yol_82
+  - first:
+      213: -141770549164500633
+    second: yol_83
+  - first:
+      213: -665984304121994850
+    second: yol_84
+  - first:
+      213: 2633960444521608321
+    second: yol_85
+  - first:
+      213: 5900182603399628847
+    second: yol_86
+  - first:
+      213: 730797069546612815
+    second: yol_87
+  - first:
+      213: 1752333376581396980
+    second: yol_88
+  - first:
+      213: 4236803298127101542
+    second: yol_89
+  - first:
+      213: -4806714650688113443
+    second: yol_90
+  - first:
+      213: 6047869172952115388
+    second: yol_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yol_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 1389
+        height: 1459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09bd2d4ea282b210800000000000000
+      internalID: 1347282923667962126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 6000
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b93dac5029abc30800000000000000
+      internalID: 4375970541519215510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1255
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b55074764c8e5f10800000000000000
+      internalID: 2260398297215686071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb46e0c651591010800000000000000
+      internalID: 1160047812069968834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5381eaa3dbb81b2d0800000000000000
+      internalID: -3264674610017331147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 457
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4be1968bd02aff0800000000000000
+      internalID: -26443562122038041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dc5fb498a2efda0800000000000000
+      internalID: -5909238891890225869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1192
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c385ef10af0b8f0800000000000000
+      internalID: -526646269933241260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 457
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd0dc6385d05f60800000000000000
+      internalID: 8021145696789912739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_9
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 704
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57cd21fe6f241ac0800000000000000
+      internalID: -3885428424974678180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 458
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83bb65aba04ffb90800000000000000
+      internalID: -7205969772810620019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_11
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbb97fbf8794ffb0800000000000000
+      internalID: -4614897074499372041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_12
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1099
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d2c66f7891fc650800000000000000
+      internalID: 6255246479186472339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 770
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55fcf1aa1378df90800000000000000
+      internalID: -6928661468485454497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_14
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 824
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a46645dac9920a0800000000000000
+      internalID: -6905816285336679826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1142
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9378323c0c6e16470800000000000000
+      internalID: 8386237696722569017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_16
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 992
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a432f004fa4a639d0800000000000000
+      internalID: -2794865446135848118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_17
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 789
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897be1572386129b0800000000000000
+      internalID: -5106685936538830952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_18
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1108
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e3cc53cddc7ca40800000000000000
+      internalID: 5388501824851164816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_19
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b3c37615c9ff610800000000000000
+      internalID: 1657215061333916475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_20
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27474d493a3ef4e60800000000000000
+      internalID: 7948822159048340594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_21
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 461
+        width: 793
+        height: 1459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f96801066af26780800000000000000
+      internalID: -8691109014860699147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_22
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba2b3d9d2648ece0800000000000000
+      internalID: -1375772524436313418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_23
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ca2304786fb8650800000000000000
+      internalID: 6236349169782664217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_24
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fab3ecf4799fd710800000000000000
+      internalID: 1720262310416857845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_25
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1101
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10d7f45657563db0800000000000000
+      internalID: -4812563123494465505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_26
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1013
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea2020a548954030800000000000000
+      internalID: 3478353712020204270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_27
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1029
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be86b35b742a9670800000000000000
+      internalID: 8546183354992987828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_28
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df6627214fa9de00800000000000000
+      internalID: 1070079080841768917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_29
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1069
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3b938761b429f0800000000000000
+      internalID: -494075000956175656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_30
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a518f5eaaa307ad0800000000000000
+      internalID: -2706598870372575833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_31
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1421
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dcca9fdde6af990800000000000000
+      internalID: -7351441542073234058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_32
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1011
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d2052a7c1134d30800000000000000
+      internalID: 4414391608872545541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_33
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1707
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf936d4c381aa170800000000000000
+      internalID: 8190385519602147268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_34
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1725
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e141597cd6a0490800000000000000
+      internalID: -7779284702362067339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_35
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 467
+        width: 383
+        height: 1453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24871f2005feb6010800000000000000
+      internalID: 1183302454040688706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_36
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 1601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02b76b0aa04ca270800000000000000
+      internalID: 8263050515397980684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_37
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1720
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbf470fac6288f00800000000000000
+      internalID: 1119187160461016056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_38
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 1156
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af91be032d41ff540800000000000000
+      internalID: 5043773000674646522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_39
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1311
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9041fda695547b7e0800000000000000
+      internalID: -1749853679862737911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_40
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 461
+        width: 897
+        height: 1459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8931f8995a13b3650800000000000000
+      internalID: 6213614698203386776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_41
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 686
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c67df2bc2c4d06e0800000000000000
+      internalID: -1869754515423660348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_42
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 809
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab7f68b3467b4cd0800000000000000
+      internalID: -2572832728882906204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_43
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1212
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefbad15ef43bb2b0800000000000000
+      internalID: -5567798247413858324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_44
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 948
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6bd96be3daddce0800000000000000
+      internalID: -1378755426042136897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_45
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 631
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f73553ac0a1d0a0800000000000000
+      internalID: -6858523967170052290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_46
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 637
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47ebd7e07a1ef080800000000000000
+      internalID: -9151848320541661366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_47
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 1772
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c21ad5b073a5a30800000000000000
+      internalID: 4204733724058790988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_48
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 867
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b864fe96c782f60800000000000000
+      internalID: 8009788731706215182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_49
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 867
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc3e4c208fb55c90800000000000000
+      internalID: -7181623473552343847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_50
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 637
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde507a5a6ff6cf0800000000000000
+      internalID: -256715462404608555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_51
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 631
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d3b3313fc61d90800000000000000
+      internalID: -7127281550039460459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_52
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 948
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0869f27620db2b10800000000000000
+      internalID: 1957887326578894861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_53
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 1212
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b56c805e0bbfc9a0800000000000000
+      internalID: -6210539690965310028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_54
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 809
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79db340c36986c10800000000000000
+      internalID: 2047051215153125757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_55
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 686
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de349fe51939fdac0800000000000000
+      internalID: -3828178905668697107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_56
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 467
+        width: 390
+        height: 1453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1e717fa46b1050800000000000000
+      internalID: 5772318052091567049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_57
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 1311
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d6ddc50d08c25b0800000000000000
+      internalID: -5391793021469758159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_58
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 1156
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c93c8b033e89c5b0800000000000000
+      internalID: -5347586732637537852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_59
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1720
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4477641235a4005c0800000000000000
+      internalID: -4251316327336741052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_60
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 1601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc1de76a99bfa2c0800000000000000
+      internalID: -4418108636607472400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_61
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 460
+        width: 752
+        height: 1460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70db0adf2abdc00c0800000000000000
+      internalID: -4608066825620505337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_62
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 1725
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b759524d89525140800000000000000
+      internalID: 4706923023794001849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_63
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 1707
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a67786e71091e70800000000000000
+      internalID: 9086295365626849812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_64
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 1011
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5896cd91b580b130800000000000000
+      internalID: 3580508701662287963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_65
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 1421
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33274fcdca3b39100800000000000000
+      internalID: 113631970637148723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_66
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5998d67c8a3c720800000000000000
+      internalID: 2865319362427458980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_67
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 1069
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52fedf2f0be82740800000000000000
+      internalID: 5127606626221486682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_68
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 1121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36a0a4d146c62a40800000000000000
+      internalID: 5343175993964144187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_69
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 1029
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824ffea17ae8ceba0800000000000000
+      internalID: -6058310550357543896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_70
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 457
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb105dd8d6739aed0800000000000000
+      internalID: -2402327982554938948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_71
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 1013
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2f01eeddc85a810800000000000000
+      internalID: 1775980512877277914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_72
+      rect:
+        serializedVersion: 2
+        x: 4391
+        y: 1101
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe005697d2708bc0800000000000000
+      internalID: -3782897416725852485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_73
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 1140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6891037348d62440800000000000000
+      internalID: 4910850227897997420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_74
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d63caaff0cf5e440800000000000000
+      internalID: 4964651309806139091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_75
+      rect:
+        serializedVersion: 2
+        x: 4571
+        y: 460
+        width: 1429
+        height: 1460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515abfa5d11be15c0800000000000000
+      internalID: -4242759059297819371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_76
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 1108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b282c68e3c826ad40800000000000000
+      internalID: 5595204408937556011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_77
+      rect:
+        serializedVersion: 2
+        x: 4901
+        y: 1133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb3121c7759086c0800000000000000
+      internalID: -4143147315607028804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_78
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 1108
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaa19caf5e19b020800000000000000
+      internalID: 2357949276171119354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_79
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 789
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260713ea932b69980800000000000000
+      internalID: -8532436483201470366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_80
+      rect:
+        serializedVersion: 2
+        x: 4959
+        y: 992
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b828b0c8a990dad0800000000000000
+      internalID: -2679472828218595146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_81
+      rect:
+        serializedVersion: 2
+        x: 4990
+        y: 1142
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36c0c982a72ba1c0800000000000000
+      internalID: -4491452624322640322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_82
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 824
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be8076f5c253cb00800000000000000
+      internalID: 847612165072391862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_83
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 770
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7691079cf64580ef0800000000000000
+      internalID: -141770549164500633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_84
+      rect:
+        serializedVersion: 2
+        x: 5364
+        y: 1099
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a2decdc2f1c6f0800000000000000
+      internalID: -665984304121994850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_85
+      rect:
+        serializedVersion: 2
+        x: 5429
+        y: 1201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f328a115bd8420800000000000000
+      internalID: 2633960444521608321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_86
+      rect:
+        serializedVersion: 2
+        x: 5492
+        y: 704
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28039931d8a1e150800000000000000
+      internalID: 5900182603399628847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_87
+      rect:
+        serializedVersion: 2
+        x: 5774
+        y: 1192
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48e8351010542a00800000000000000
+      internalID: 730797069546612815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_88
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 1167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9e137fbe9815810800000000000000
+      internalID: 1752333376581396980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_89
+      rect:
+        serializedVersion: 2
+        x: 5826
+        y: 1166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eb110f6262cca30800000000000000
+      internalID: 4236803298127101542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_90
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 1119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4b1150e7e1b4db0800000000000000
+      internalID: -4806714650688113443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yol_91
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 1255
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8a8d548f85ee350800000000000000
+      internalID: 6047869172952115388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yol_0: 1347282923667962126
+      yol_1: 4375970541519215510
+      yol_10: -7205969772810620019
+      yol_11: -4614897074499372041
+      yol_12: 6255246479186472339
+      yol_13: -6928661468485454497
+      yol_14: -6905816285336679826
+      yol_15: 8386237696722569017
+      yol_16: -2794865446135848118
+      yol_17: -5106685936538830952
+      yol_18: 5388501824851164816
+      yol_19: 1657215061333916475
+      yol_2: 2260398297215686071
+      yol_20: 7948822159048340594
+      yol_21: -8691109014860699147
+      yol_22: -1375772524436313418
+      yol_23: 6236349169782664217
+      yol_24: 1720262310416857845
+      yol_25: -4812563123494465505
+      yol_26: 3478353712020204270
+      yol_27: 8546183354992987828
+      yol_28: 1070079080841768917
+      yol_29: -494075000956175656
+      yol_3: 1160047812069968834
+      yol_30: -2706598870372575833
+      yol_31: -7351441542073234058
+      yol_32: 4414391608872545541
+      yol_33: 8190385519602147268
+      yol_34: -7779284702362067339
+      yol_35: 1183302454040688706
+      yol_36: 8263050515397980684
+      yol_37: 1119187160461016056
+      yol_38: 5043773000674646522
+      yol_39: -1749853679862737911
+      yol_4: -3264674610017331147
+      yol_40: 6213614698203386776
+      yol_41: -1869754515423660348
+      yol_42: -2572832728882906204
+      yol_43: -5567798247413858324
+      yol_44: -1378755426042136897
+      yol_45: -6858523967170052290
+      yol_46: -9151848320541661366
+      yol_47: 4204733724058790988
+      yol_48: 8009788731706215182
+      yol_49: -7181623473552343847
+      yol_5: -26443562122038041
+      yol_50: -256715462404608555
+      yol_51: -7127281550039460459
+      yol_52: 1957887326578894861
+      yol_53: -6210539690965310028
+      yol_54: 2047051215153125757
+      yol_55: -3828178905668697107
+      yol_56: 5772318052091567049
+      yol_57: -5391793021469758159
+      yol_58: -5347586732637537852
+      yol_59: -4251316327336741052
+      yol_6: -5909238891890225869
+      yol_60: -4418108636607472400
+      yol_61: -4608066825620505337
+      yol_62: 4706923023794001849
+      yol_63: 9086295365626849812
+      yol_64: 3580508701662287963
+      yol_65: 113631970637148723
+      yol_66: 2865319362427458980
+      yol_67: 5127606626221486682
+      yol_68: 5343175993964144187
+      yol_69: -6058310550357543896
+      yol_7: -526646269933241260
+      yol_70: -2402327982554938948
+      yol_71: 1775980512877277914
+      yol_72: -3782897416725852485
+      yol_73: 4910850227897997420
+      yol_74: 4964651309806139091
+      yol_75: -4242759059297819371
+      yol_76: 5595204408937556011
+      yol_77: -4143147315607028804
+      yol_78: 2357949276171119354
+      yol_79: -8532436483201470366
+      yol_8: 8021145696789912739
+      yol_80: -2679472828218595146
+      yol_81: -4491452624322640322
+      yol_82: 847612165072391862
+      yol_83: -141770549164500633
+      yol_84: -665984304121994850
+      yol_85: 2633960444521608321
+      yol_86: 5900182603399628847
+      yol_87: 730797069546612815
+      yol_88: 1752333376581396980
+      yol_89: 4236803298127101542
+      yol_9: -3885428424974678180
+      yol_90: -4806714650688113443
+      yol_91: 6047869172952115388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

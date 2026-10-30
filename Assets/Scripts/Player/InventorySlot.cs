@@ -4,9 +4,14 @@ using UnityEngine.UI;
 public class InventorySlot : MonoBehaviour
 {
     public Image slotSprite;
+    public GameObject slotSprites;
     public Weapon weapon;
-    private void Awake()
+    public GameObject selectionSprite;
+   public void SetSelected(bool isSelected)
     {
-        slotSprite = GetComponent<Image>();
-    }
+        if (selectionSprite != null)
+        {
+            selectionSprite.SetActive(isSelected);
+        }
+    } 
 }
